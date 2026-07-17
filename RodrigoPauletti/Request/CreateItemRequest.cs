@@ -1,0 +1,1 @@
+public record CreateItemRequest(string Key, string Value, int Ttl);
