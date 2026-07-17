@@ -1,0 +1,6 @@
+@CodeconRedis_HostAddress = http://localhost:5068
+
+GET {{CodeconRedis_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
